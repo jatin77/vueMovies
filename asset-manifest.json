@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/my-app/static/css/main.70f3e793.chunk.css",
+    "main.js": "/my-app/static/js/main.b2a528f7.chunk.js",
+    "main.js.map": "/my-app/static/js/main.b2a528f7.chunk.js.map",
+    "runtime~main.js": "/my-app/static/js/runtime~main.6019dd84.js",
+    "runtime~main.js.map": "/my-app/static/js/runtime~main.6019dd84.js.map",
+    "static/js/2.11201880.chunk.js": "/my-app/static/js/2.11201880.chunk.js",
+    "static/js/2.11201880.chunk.js.map": "/my-app/static/js/2.11201880.chunk.js.map",
+    "index.html": "/my-app/index.html",
+    "precache-manifest.b422ae6a8902c785293e89c6358ec89f.js": "/my-app/precache-manifest.b422ae6a8902c785293e89c6358ec89f.js",
+    "service-worker.js": "/my-app/service-worker.js",
+    "static/css/main.70f3e793.chunk.css.map": "/my-app/static/css/main.70f3e793.chunk.css.map",
+    "static/media/1_CsJ05WEGfunYMLGfsT2sXA.gif": "/my-app/static/media/1_CsJ05WEGfunYMLGfsT2sXA.4c140210.gif",
+    "static/media/style.css": "/my-app/static/media/audio-cassette-cassette-tape-1626481.0cc0242f.jpg",
+    "static/media/album-black-classic-167092_burned.png": "/my-app/static/media/album-black-classic-167092_burned.85c323a4.png",
+    "static/media/celeb.jpg": "/my-app/static/media/celeb.6ab95eed.jpg",
+    "static/media/charlies.jpg": "/my-app/static/media/charlies.badb11d1.jpg"
+  }
+}
